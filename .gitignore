@@ -1,4 +1,4 @@
-tailwind.config.js
-*.json
 node_modules/
-src/
+*.json
+tailwind.config.js
+input.css

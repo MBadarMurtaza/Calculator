@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Basic Calculator Using Html Css and Java Script",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx @tailwindcss/cli -i ./src/input.css -o ./main/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBadarMurtaza/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBadarMurtaza/Calculator/issues"
+  },
+  "homepage": "https://github.com/MBadarMurtaza/Calculator#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.8",
+    "tailwindcss": "^4.0.8"
+  }
+}
